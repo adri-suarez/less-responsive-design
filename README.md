@@ -1,6 +1,6 @@
 # 8D music web page
-## In the first of these screenshots we have the default desktop version.
-##In the second screenshot we have the adaptive version for mobile devices, so if our device has a width of 500px or less, it will use this version.
+<h2> In the first of these screenshots we have the default desktop version.
+In the second screenshot we have the adaptive version for mobile devices, so if our device has a width of 500px or less, it will use this version.</h2>
 ###This project was created to practice the Less preprocessor.
 
 ![home-desktop](https://user-images.githubusercontent.com/107125191/185818529-f17f681c-8170-4e88-9fbe-6c1e5b43da4b.png)
